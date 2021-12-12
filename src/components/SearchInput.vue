@@ -6,7 +6,25 @@
       <input
         type="text"
         placeholder="Search (Press  &quot;/&quot; to focus)"
-        class="bg-background-form border border-gray-500 rounded px-4 pl-10 py-1 outline-none focus:border-blue-500 w-80 focus:border-2"
+        class="bg-background-form
+               border
+               border-gray-300 
+               rounded-md
+               sm:text-sm
+               focus:ring-3
+               px-3 py-2 
+               outline-none 
+               placeholder-gray-400 
+               focus:border-blue-500 
+               
+               focus:ring-blue-500
+               focus:outline-none
+               
+               block
+               w-full
+
+              
+               "
         v-model="query"
         @input="softReset"
         @keyup="performSearch"
@@ -19,7 +37,7 @@
         ref="search"
         data-cypress="search"
       >
-      <div class="absolute top-0 ml-3" style="top:10px">
+      <div class="absolute top-0  right-0 mr-3" style="top:10px">
         <svg fill="currentColor" class="text-gray-500 h-5 w-5" viewBox="0 0 24 24" width="24" height="24"><path class="heroicon-ui" d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"></path></svg>
       </div>
       <div
