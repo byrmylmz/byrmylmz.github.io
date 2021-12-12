@@ -1,5 +1,5 @@
 ---
-title: Vue Components in Markdown
+title: Bayram Yilmaz
 excerpt: An example markdown page that has Vue Components inside of it!
 ---
 import TestComponent from '~/components/CounterComponent.vue'
