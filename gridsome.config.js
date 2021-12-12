@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome Portfolio Starter',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1',
+  siteName: 'Bayram Yılmaz',
+  siteDescription: 'Bayram Yılmaz - Web Developer',
   siteUrl: 'https://byrmylmz.github.io',
   
   plugins: [
@@ -18,7 +18,7 @@ module.exports = {
       options: {
         typeName: 'Documentation', // Required
         baseDir: './docs', // Where .md files are located
-        pathPrefix: 'byrmylmz.github.io', // Add route prefix. Optional
+        pathPrefix: 'docs', // Add route prefix. Optional
         template: './src/templates/Documentation.vue', // Optional
         plugins: [
           [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]

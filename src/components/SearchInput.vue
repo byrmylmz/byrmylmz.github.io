@@ -6,7 +6,7 @@
       <input
         type="text"
         placeholder="Search (Press  &quot;/&quot; to focus)"
-        class="bg-background-form border border-gray-500 rounded-full px-4 pl-10 py-2 outline-none focus:border-green-500 w-80"
+        class="bg-background-form border border-gray-500 rounded px-4 pl-10 py-1 outline-none focus:border-blue-500 w-80 focus:border-2"
         v-model="query"
         @input="softReset"
         @keyup="performSearch"

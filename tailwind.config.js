@@ -121,6 +121,7 @@ module.exports = {
         'monospace',
       ],
     },
+    
   },
   variants: {
     // Some useful comment
