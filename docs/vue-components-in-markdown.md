@@ -37,3 +37,6 @@ The ability to use Vue Components in Markdown was added in Gridsome v0.7 with th
   color: red;
 }
 ```
+
+
+
