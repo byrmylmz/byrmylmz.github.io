@@ -10,7 +10,7 @@ excerpt: Graphql note and some query samples!
 
 ```graphql
 type Query {
-    users: [User!]! @paginate(defaultCount: 10)
+    users: [User!]! @paginate(defaultCount: 10) // these notes for the future projects
     user(id: ID @eq): User @find
 
 
