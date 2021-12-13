@@ -1,6 +1,7 @@
 ---
 title: Graphql Notes
 excerpt: Graphql note and some query samples!
+tags:['deneme']
 ---
 
 
