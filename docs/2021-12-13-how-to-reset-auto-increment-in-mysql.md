@@ -1,6 +1,7 @@
 ---
 title: Auto increment in mysql
 exerpt: test
+data: 2021-12-13
 tags: ['mysql']
 ---
 
