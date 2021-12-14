@@ -11,3 +11,6 @@ data: 2013-12-13
 ## Articles
 - [GraphQL SDL — Schema Definition Language](https://www.prisma.io/blog/graphql-sdl-schema-definition-language-6755bcb9ce51)
 - [GraphQL Official Specifications](https://spec.graphql.org/October2021/)
+
+## Tutorials
+- [LaravelDaily GraphQL](https://laraveldaily.teachable.com/p/graphql-in-laravel)
