@@ -19,7 +19,7 @@
 
 <page-query>
 query Documentation {
-  docs: allDocumentation (sortBy: "date", order: ASC) {
+  docs: allDocumentation (sortBy: "date", order: DESC) {
     edges {
       node {
         id
