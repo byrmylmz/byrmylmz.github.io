@@ -44,6 +44,9 @@
           <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600" data-cypress="blog">Blog</g-link>
           </li>
+          <!-- <li>
+            <g-link to="/notes" class="text-copy-primary hover:text-gray-600" data-cypress="notes">Notes</g-link>
+          </li> -->
         </ul>
         <ul>
            <li class="mb-6 lg:mb-0">
