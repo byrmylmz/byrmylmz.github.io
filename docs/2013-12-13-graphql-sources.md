@@ -13,4 +13,4 @@ data: 2013-12-13
 - [GraphQL Official Specifications](https://spec.graphql.org/October2021/)
 
 ## Tutorials
-- [LaravelDaily GraphQL](https://laraveldaily.teachable.com/p/graphql-in-laravel)
+- [GraphQL in Laravel From Scratch](https://laraveldaily.teachable.com/p/graphql-in-laravel)
