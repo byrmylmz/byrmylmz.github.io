@@ -39,6 +39,16 @@ module.exports = {
       }
     },
     
+    //content file system
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/**/*.md',
+        typeName: 'content',
+       //
+      }
+    },
+    
     {
       use: 'gridsome-plugin-rss',
       options: {
