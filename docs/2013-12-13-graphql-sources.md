@@ -14,3 +14,6 @@ data: 2013-12-13
 ## Tutorials
 - [GraphQL in Laravel From Scratch](https://laraveldaily.teachable.com/p/graphql-in-laravel)
 - [Official Tutorials Docs](https://lighthouse-php.com/tutorial/)
+
+## Lighthouse GraphQL Passport Auth
+- [Passport Auth](https://lighthouse-php-auth.com/)
