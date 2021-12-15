@@ -1,11 +1,16 @@
 ---
-title: Freelance vs Full Time Work
-path: /freelance-vs-full-time-work
-date: 2019-03-17
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
-tags: ['business']
+title: Iterm2
+path: /iterm
+date: 2021-12-15
+summary: Iterm2 Installation
+tags: ['Tools']
 ---
 
-![background](./images/blog_bg_2.jpg)
+![background](https://iterm2.com/img/logo2x.jpg)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus placeat quia! Voluptates corporis atque itaque, quae in aperiam reiciendis id, beatae dicta optio rem, cumque illum tempore accusamus blanditiis consequuntur doloribus accusantium. Expedita minus suscipit vel nulla. Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus placeat quia! Voluptates corporis atque itaque, quae in aperiam reiciendis id, beatae dicta optio rem, cumque illum tempore accusamus blanditiis consequuntur doloribus accusantium. Expedita minus suscipit vel nulla.
+---
+1. [Iterm2 Installation](https://iterm2.com/downloads.html)
+2. [ohmyzsh style](https://github.com/ohmyzsh/ohmyzsh)
+3. [Install Pathogen](https://github.com/tpope/vim-pathogen)
+4. [Install vim-material-theme](https://github.com/jdkanani/vim-material-theme)
+- 
