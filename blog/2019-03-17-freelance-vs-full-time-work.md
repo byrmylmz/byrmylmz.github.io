@@ -13,4 +13,5 @@ tags: ['Tools']
 2. [ohmyzsh style](https://github.com/ohmyzsh/ohmyzsh)
 3. [Install Pathogen](https://github.com/tpope/vim-pathogen)
 4. [Install vim-material-theme](https://github.com/jdkanani/vim-material-theme)
-- 
+
+
