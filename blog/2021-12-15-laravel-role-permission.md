@@ -6,5 +6,9 @@ summary: Role permission
 tags: ['laravel','permission']
 ---
 
-### Role Permission Source
+## Sources
+
+- [Spatie Laravel Permission: Example Project Review](https://www.youtube.com/watch?v=NgToi0uiMNQ)
+- [Two Best Laravel Packages to Manage Roles/Permissions](https://laravel-news.com/two-best-roles-permissions-packages)
+## Role Permission Source
 - [Docs Spatie package](https://spatie.be/docs/laravel-permission/v5/introduction)
