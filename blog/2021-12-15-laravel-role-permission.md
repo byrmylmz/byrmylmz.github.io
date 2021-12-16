@@ -6,4 +6,5 @@ summary: Role permission
 tag: ['laravel','permission']
 ---
 
-### Role Permission Sources
+### Role Permission Source
+- [Spatie package docs](https://spatie.be/docs/laravel-permission/v5/introduction)
