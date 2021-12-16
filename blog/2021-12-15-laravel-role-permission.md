@@ -10,5 +10,6 @@ tags: ['laravel','permission']
 
 - [Spatie Laravel Permission: Example Project Review](https://www.youtube.com/watch?v=NgToi0uiMNQ)
 - [Two Best Laravel Packages to Manage Roles/Permissions](https://laravel-news.com/two-best-roles-permissions-packages)
+- [ ] [Good explanation](https://www.youtube.com/watch?v=PQh58dmIUgg)
 ## Role Permission Source
 - [Docs Spatie package](https://spatie.be/docs/laravel-permission/v5/introduction)
