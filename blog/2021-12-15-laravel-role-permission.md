@@ -7,4 +7,4 @@ tag: ['laravel','permission']
 ---
 
 ### Role Permission Source
-- [Spatie package docs](https://spatie.be/docs/laravel-permission/v5/introduction)
+- [Docs Spatie package](https://spatie.be/docs/laravel-permission/v5/introduction)
