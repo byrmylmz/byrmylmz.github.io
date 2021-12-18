@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div class="container mx-auto py-16 ">
-      <div class="flex items-center space-x-2">
+      <div class="flex items-center space-x-2 basis-1/4">
         <div v-for="post in $page.posts.edges" :key="post.id" class="post  border-gray-400 border-b mb-12 rounded-lg border p-4 hover:border-gray-500 cursor-pointer">
           <h2 class=" font-bold"><g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link></h2>
           <div class="text-copy-secondary mb-4">
