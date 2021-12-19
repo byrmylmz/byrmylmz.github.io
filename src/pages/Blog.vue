@@ -21,6 +21,7 @@
                   ">
                     <div class=" font-semibold truncate text-md text-gray-800">{{ post.node.title }}</div>
                     <div class="flex items-center space-x-2">
+                      <!-- TAG SECTION -->
                       <div v-for="tag in post.node.tags" :key="tag.id" class="flex flex-wrap " >
                          
                           <g-link 
