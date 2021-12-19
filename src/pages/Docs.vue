@@ -16,7 +16,7 @@
     </div>
   </Layout>
 </template>
-
+  
 <page-query>
 query Documentation {
   docs: allDocumentation (sortBy: "date", order: DESC) {
