@@ -71,7 +71,7 @@
 }
 
 a {
-  @apply text-blue-700 text-lg font-bold;
+  @apply text-blue-700 ;
 }
 
 a:hover {
