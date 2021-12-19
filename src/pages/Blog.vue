@@ -4,8 +4,8 @@
       <div class="">
        
           <div class="grid grid-cols-4 gap-4 mb-12">
-            <div v-for="post in $page.posts.edges" :key="post.id" class="post truncate border-gray-400 border-b rounded-lg border p-4 hover:border-gray-500 cursor-pointer">
-              <h2 class=" font-bold"><g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link></h2>
+            <div v-for="post in $page.posts.edges" :key="post.id" class="post border-gray-400 border-b rounded-lg border p-4 hover:border-gray-500 cursor-pointer">
+              <h2 class=" font-bold truncate"><g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link></h2>
               <div class="text-copy-secondary mb-4">
                 <span>{{ post.node.date }}</span>
                 <span> &middot; </span>
