@@ -47,7 +47,6 @@
   .markdown-body h6:hover .anchor .octicon-link {
     visibility: visible;
   }
-
   .markdown-body {
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -690,7 +689,7 @@
   .markdown-body pre>code {
     background: transparent;
     border: 0;
-    font-size: 100%;
+    font-size: 110%;
     margin: 0;
     padding: 0;
     white-space: pre;
