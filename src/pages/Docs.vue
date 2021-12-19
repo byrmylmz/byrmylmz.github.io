@@ -11,7 +11,7 @@
         <!-- <div class="mb-8">
           <g-link :to="doc.node.path" class="font-bold uppercase">Read More</g-link>
         </div> -->
-      </div> <!-- end post -->
+      </div> <!-- end  post -->  
 
     </div>
   </Layout>
