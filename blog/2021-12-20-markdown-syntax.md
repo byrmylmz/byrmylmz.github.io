@@ -1,8 +1,8 @@
 ---
-title: Vim Commands
-path: /vim
+title: Markdown Code Samples
+path: /markdown-code-samples
 date: 2021-12-15
-summary: Vim commands
+summary: Markdown code samples.
 tags: ['Tools']
 ---
 
