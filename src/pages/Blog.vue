@@ -1,7 +1,6 @@
 <template>
   <Layout>
     <div class="container mx-auto py-16 ">
-      
           <div class="grid grid-cols-4 gap-4 mb-12">
                   <g-link   
                       v-for="post in $page.posts.edges" 
@@ -68,7 +67,6 @@ query Posts ($page: Int) {
       }
     }
   }
-
 </page-query>
 
 <script>
