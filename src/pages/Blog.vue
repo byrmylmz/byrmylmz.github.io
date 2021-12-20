@@ -1,24 +1,19 @@
 <template>
   <Layout>
     <div class="container mx-auto py-16 ">
-      <div class="">
-        <!-- TOTAL NUMBER OF -->
-       <!-- <span>total article {{$page.posts.totalCount}}</span>
-       <span>total article {{$page.posts.totalCount}}</span> -->
-
+      
           <div class="grid grid-cols-4 gap-4 mb-12">
             
                   <g-link  v-for="post in $page.posts.edges" :key="post.id" :to="post.node.path" class= "
-                  post 
-                  shadow-lg  
-                  border-gray-300 
-                  border-2 
-                  rounded-lg 
-                  p-3 
-                  hover:border-gray-400 
-                  cursor-pointer 
-                  
-                  ">
+                                                                                                        post 
+                                                                                                        shadow-lg  
+                                                                                                        border-gray-300 
+                                                                                                        border-2 
+                                                                                                        rounded-lg 
+                                                                                                        p-3 
+                                                                                                        hover:border-gray-400 
+                                                                                                        cursor-pointer 
+                                                                                                        ">
                     <div class=" font-semibold truncate text-md text-gray-800">{{ post.node.title }}</div>
                     <div class="flex items-center space-x-2">
                       <!-- TAG SECTION -->
@@ -46,22 +41,17 @@
                   
                   </g-link >
             
-          </div>
+            </div>
       
-      </div>
+         
 
-      <pagination-posts
-        v-if="$page.posts.pageInfo.totalPages > 1"
-        base="/blog"
-        :totalPages="$page.posts.pageInfo.totalPages"
-        :currentPage="$page.posts.pageInfo.currentPage"
-      />
-
-        <!-- TEST CODE FOR THE DENEME QUERY  -->
-          <!-- <div v-for="edge in $page.deneme.edges" :key="edge.node.id">
-            <h2>{{ edge.node.tags }}</h2>
-          </div>-->
-  </div> 
+          <pagination-posts
+            v-if="$page.posts.pageInfo.totalPages > 1"
+            base="/blog"
+            :totalPages="$page.posts.pageInfo.totalPages"
+            :currentPage="$page.posts.pageInfo.currentPage"
+          />
+    </div> 
   </Layout>
 </template>
 
