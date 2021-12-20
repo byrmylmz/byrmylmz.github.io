@@ -9,6 +9,7 @@ tags: ['laravel','deploy']
 ## COMMANDS
 
 ### Server set up
+------
 ```php
 adduser name_of_user
 usermod -aG sudo name_of_user
