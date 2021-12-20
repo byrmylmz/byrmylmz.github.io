@@ -8,7 +8,7 @@ tags: ['laravel','deploy']
 
 ## COMMANDS
 
-***Server set up***
+### Server set up
 ```php
 adduser name_of_user
 usermod -aG sudo name_of_user
@@ -21,18 +21,18 @@ vim .ssh/authorized_keys
 cat ~/.ssh/id_rsa.pub
 ```
 
-***Firewall configuration***
+### Firewall configuration
 ```php
 sudo ufw allow 'Nginx HTTP' 
 ```
 
-***Mysql configuration***
+### Mysql configuration
 ```php
 sudo mysql_secure_installation
 sudo mysql -u root -p
 ```
 
-***MySQL queries***
+### MySQL queries
 ```php
 create user 'username'@'localhost' identified by 'password';
 alter user 'username'@'localhost' identified with mysql_native_password by 'password';
@@ -42,26 +42,25 @@ flush privileges;
 exit;
 ```
 
-
-***PHP extension***
+### PHP extension
 ```php
 sudo apt update
 sudo apt install php-bcmath php-mbstring php-xml
 ```
 
-***Composer***
+### Composer
 ```php
 sudo apt install unzip
 curl -sS https://getcomposer.org/installer |php
 sudo mv composer.phar /usr/local/bin/composer
 ```
 
-***Clone and set up the app***
+### Clone and set up the app
 ```php
 sudo chown name_of_user ./
 ```
 
-***github***
+### Github
 ```php
 git clone url_from_github
 cd repo_name
@@ -75,7 +74,7 @@ vim .env
 php artisan migrate --force
 ```
 
-***Nginx configuration***
+### Nginx configuration
 ```php
 sudo vim /etc/nginx/sites-available/tutorial
 // nginx configuration
@@ -117,7 +116,7 @@ sudo nginx -t
 sudo service nginx restart
 ```
 
-***Change owner of storage and bootstrap/cache***
+### Change owner of storage and bootstrap/cache
 ```php
 cd path/to/repo
 sudo chown -R www-data.www-data storage
