@@ -7,7 +7,7 @@ summary:
 tags: ['vscode']
 ---
 
-![](https://images.unsplash.com/photo-1557683311-eac922347aa1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1600&h=150)
+![](https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&h=150)
 ## Templates
 - [Atom one dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 - [Github Themes](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
