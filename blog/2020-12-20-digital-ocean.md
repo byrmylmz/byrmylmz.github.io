@@ -5,7 +5,7 @@ date: 2021-12-20
 summary: Laravel deployment to digital ocean
 tags: ['laravel','deploy']
 ---
-
+![](https://images.unsplash.com/photo-1588421357574-87938a86fa28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&h=200)
 ## COMMANDS
 
 ### Server set up
