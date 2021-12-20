@@ -53,7 +53,7 @@ sudo apt install php-bcmath php-mbstring php-xml
 ```php
 sudo apt install unzip
 curl -sS https://getcomposer.org/installer |php
-mv composer.phar /usr/local/bin/composer
+sudo mv composer.phar /usr/local/bin/composer
 ```
 
 ***Clone and set up the app***
