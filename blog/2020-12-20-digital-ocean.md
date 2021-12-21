@@ -72,6 +72,10 @@ sudo mv composer.phar /usr/local/bin/composer
 sudo chown name_of_user ./
 ```
 
+```php
+cd /var/www/
+```
+
 ### Github
 ```php
 git clone url_from_github
