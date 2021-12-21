@@ -9,20 +9,28 @@ tags: ['laravel','deploy']
 ---
 [Deploy Laravel to DigitalOcean](https://www.youtube.com/watch?v=GhGDunq_OSw)
 
-## COMMANDS
+### Connection
+
+```php
+ssh root@server_ip_adress
+```
 
 ### Server set up
-------
+
 ```php
 adduser name_of_user
+
 usermod -aG sudo name_of_user
+
 sudo - name_of_user
+
 mkdir .ssh
+
 chmod 700 .ssh
-// vim or nano
-vim .ssh/authorized_keys 
-// in your computers terminal cat the public key
-cat ~/.ssh/id_rsa.pub
+
+vim .ssh/authorized_keys  // vim or nano
+
+cat ~/.ssh/id_rsa.pub // in your computers terminal cat the public key
 ```
 
 ### Firewall configuration
