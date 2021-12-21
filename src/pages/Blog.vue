@@ -8,8 +8,8 @@
                       :to="post.node.path" 
                       class= "post shadow-lg border-gray-300 border-2 rounded-lg p-3 hover:border-gray-400 cursor-pointer">                                                                                                                                                            
                     <div class=" font-semibold truncate text-md text-gray-800">{{ post.node.title }}</div>
-                    <div class="flex items-center space-x-2">
-                      <!-- TAG SECTION -->
+                   <!--  <div class="flex items-center space-x-2">
+                      TAG SECTION 
                       <div v-for="tag in post.node.tags" :key="tag.id" class="flex flex-wrap " >
                           <g-link 
                             :to="tag.path"
@@ -17,7 +17,7 @@
                           {{tag.title}}
                           </g-link>
                       </div>
-                    </div>
+                    </div>-->
                   </g-link >
             </div>
           <pagination-posts
