@@ -45,7 +45,7 @@ sudo mysql -u root -p
 ```
 
 ### MySQL queries
-```php
+```mysql
 create user 'username'@'localhost' identified by 'password';
 alter user 'username'@'localhost' identified with mysql_native_password by 'password';
 create database database_name;
