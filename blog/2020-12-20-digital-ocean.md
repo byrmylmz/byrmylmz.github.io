@@ -93,6 +93,8 @@ php artisan migrate --force
 ### Nginx configuration
 ```php
 sudo vim /etc/nginx/sites-available/tutorial
+```
+```php
 // nginx configuration
 server {
     listen 80;
