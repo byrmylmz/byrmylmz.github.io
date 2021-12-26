@@ -129,6 +129,8 @@ server {
         deny all;
     }
 }
+```
+```php
 sudo ln -s /etc/nginx/sites-available/tutorial /etc/nginx/sites-enabled/tutorial
 sudo nginx -t 
 sudo service nginx restart
