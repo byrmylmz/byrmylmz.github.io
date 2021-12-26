@@ -7,7 +7,9 @@ tags: ['laravel','deploy']
 ---
 ![](https://images.unsplash.com/photo-1588421357574-87938a86fa28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&h=200)
 ---
-[Deploy Laravel to DigitalOcean](https://www.youtube.com/watch?v=GhGDunq_OSw)
+[:movie_camera:Deploy Laravel to DigitalOcean Youtube](https://www.youtube.com/watch?v=GhGDunq_OSw)
+
+[:star:Digital Ocean Explanation](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-lemp-on-ubuntu-18-04)
 
 ### Connection
 
