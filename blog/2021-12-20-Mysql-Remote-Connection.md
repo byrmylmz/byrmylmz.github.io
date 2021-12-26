@@ -11,6 +11,9 @@ tags: ['mysql']
 - [How To Allow Remote Access to MySQL](https://www.digitalocean.com/community/tutorials/how-to-allow-remote-access-to-mysql)
 ---
 ```mysql
+sudo mysql 
+```
+```mysql
 SELECT USER FROM mysql.user;
 ```
 ```mysql 
