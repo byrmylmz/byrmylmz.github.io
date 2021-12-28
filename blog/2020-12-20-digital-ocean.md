@@ -12,7 +12,7 @@ tags: ['laravel','deploy']
 [Digital Ocean Explanation](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-lemp-on-ubuntu-18-04)
 
 ### Connection
-
+test
 ```php
 ssh root@server_ip_adress
 ```
