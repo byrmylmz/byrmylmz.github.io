@@ -7,3 +7,9 @@ tags: ['laravel']
 ---
 
 [Spatie permission package documents](https://spatie.be/index.php/docs/laravel-permission/v5/introduction)
+
+- [ ] [Tutorial 1](https://www.youtube.com/watch?v=zIgYJlu03bI)
+- [ ] [Tutorial 2](https://www.youtube.com/watch?v=nx6eGEKnkwU)
+- [ ] [Tutorial 3](https://www.youtube.com/watch?v=rkLeeWftBww&t=398s)
+- [ ] [Tutorial 4](https://www.youtube.com/watch?v=PQh58dmIUgg&t=62s)
+- [ ] [Tutorial 5](https://www.youtube.com/watch?v=TF7USUWZlQ8)
