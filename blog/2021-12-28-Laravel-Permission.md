@@ -8,6 +8,8 @@ tags: ['laravel']
 
 [Spatie permission package documents](https://spatie.be/index.php/docs/laravel-permission/v5/introduction)
 
+[Povil package reviews](https://www.youtube.com/watch?v=NgToi0uiMNQ&t=477s)
+
 - [x] [Tutorial 1](https://www.youtube.com/watch?v=zIgYJlu03bI)
 - [ ] [Tutorial 2](https://www.youtube.com/watch?v=nx6eGEKnkwU)
 - [ ] [Tutorial 3](https://www.youtube.com/watch?v=rkLeeWftBww&t=398s)
