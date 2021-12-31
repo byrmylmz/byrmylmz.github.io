@@ -10,6 +10,8 @@ tags: ['laravel']
 
 [Povil package reviews](https://www.youtube.com/watch?v=NgToi0uiMNQ&t=477s)
 
+[Trial Time](https://laraveldaily.com/laravel-saas-free-trial-implementation/)
+
 - [x] [Tutorial 1](https://www.youtube.com/watch?v=zIgYJlu03bI)
 - [x] [Tutorial 2](https://www.youtube.com/watch?v=nx6eGEKnkwU)
 - [x] [Tutorial 3](https://www.youtube.com/watch?v=rkLeeWftBww&t=398s)
