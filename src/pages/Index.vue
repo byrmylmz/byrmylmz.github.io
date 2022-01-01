@@ -1,24 +1,29 @@
 <template>
   <Layout>
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16 mt-8">
-      <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Bayram Yılmaz</div>
-        <div class="text-blue-700 leading-tight">Full-stack Web Developer</div>
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10 mt-8">
+      <div class="text-4xl w-full sm:w-3/5 text-center sm:text-left py-16">
+        <div class="font-bold">Hey, I'm Bayram</div>
+        <div class="text-blue-700 leading-tight text-2xl font-normal">I'm a Full Stack Developer Based in Trabzon, Turkey</div>
       </div>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/programmer.svg" alt="hero" class="mx-auto sm:mx-0 w-80" />
+        <g-image src="../../static/avatar.jpg" alt="hero" class="mx-auto sm:mx-0 w-80  rounded-full" />
       </div>
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
+      
+      <p class="text-lg sm:text-xl leading-8">
+        I am a freelance software developer building robust software solutions for clients large and small. My passion is building well architected, maintainable, and tested web applications using <a href="https://laravel.com" class="font-bold">Laravel</a>. <br>
+        On the front end side, I love working with <a href="https://laravel.com" class="font-bold">Vue.js</a> & <a href="https://laravel.com" class="font-bold">Tailwind CSS</a> to build beautiful, interactive and accessible products.
+        <br>
+    </p>
 
-      <div class="flex justify-between items-center py-6">
+      <div class="flex justify-between items-center py-10">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
-          <g-image src="../../static/mind_map.svg" alt="browser" />
+          <g-image src="../../static/coding.svg" alt="coding" />
         </div>
         <div class="w-1/2 px-8 hidden sm:flex justify-end">
-          <g-image src="../../static/code_review.svg" alt="mobile" />
+          <g-image src="../../static/tailwind.svg" alt="tailwind" />
         </div>
       </div>
     </div>

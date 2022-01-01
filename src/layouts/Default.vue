@@ -5,18 +5,18 @@
         <div>
           <g-link v-if="theme === 'theme-light'" to="/" @click.native="scrollToTop">
           <div class="flex flex-row mb-3">
-            <div class="flex item-center"><g-image src="../../static/logo.svg" class="w-10" alt="logo" /></div>
-            <div class="flex items-end"> <span class="text-2xl -ml-1 -mb-1 text-blue-600">ayram Yılmaz</span></div>
+            <!-- <div class="flex item-center"><g-image src="../../static/logo.svg" class="w-10" alt="logo" /></div> -->
+            <div class="flex items-end"> <span class="text-2xl -ml-1 -mb-1 text-blue-600">Bayram Yılmaz</span></div>
           </div>
           </g-link>
           <g-link v-else to="/" @click.native="scrollToTop">
              <div class="flex flex-row mb-3">
-            <div class="flex item-center"><g-image src="../../static/logo.svg" class="w-10" alt="logo" /></div>
-            <div class="flex items-end"> <span class="text-2xl -ml-1 -mb-1 text-blue-600">ayram Yılmaz</span></div>
+            <!-- <div class="flex item-center"><g-image src="../../static/logo.svg" class="w-10" alt="logo" /></div> -->
+            <div class="flex items-end"> <span class="text-2xl -ml-1 -mb-1 text-blue-600">Bayram Yılmaz</span></div>
           </div>
           </g-link>
         </div>
-        <div class="block lg:hidden">
+        <div class="flex lg:hidden">
           <button @click="toggle" class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600" data-cypress="hamburger">
             <svg class="current-color h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" fill="gray" /></svg>
           </button>
@@ -49,11 +49,11 @@
           </li> -->
         </ul>
         <ul>
-           <li class="mb-6 lg:mb-0">
+           <li class="hidden lg:flex ">
             <search-input />
           </li>
         </ul>
-        <ul class="flex items-center space-x-4 ">
+        <ul class="hidden lg:flex items-center space-x-4 ">
           <li>
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
           </li>
