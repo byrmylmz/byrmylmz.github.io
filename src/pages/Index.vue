@@ -1,9 +1,10 @@
 <template>
   <Layout>
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-10 mt-8">
-      <div class="text-4xl w-full sm:w-3/5 text-center sm:text-left py-16">
-        <div class="font-bold">Hey, I'm Bayram</div>
-        <div class="text-blue-700 leading-tight text-2xl font-normal">I'm a Full Stack Developer Based in Trabzon, Turkey</div>
+    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between mt-16">
+      <div class="text-4xl w-full sm:w-3/5 text-center sm:text-left ">
+      
+        <div class="font-bold align-top">Hey, I'm Bayram</div>
+        <div class="text-blue-700 leading-tight text-2xl font-normal align-top">I'm a Full Stack Developer Based in Trabzon, Turkey</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/avatar.jpg" alt="hero" class="mx-auto sm:mx-0 w-80  rounded-full" />
