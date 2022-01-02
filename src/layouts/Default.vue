@@ -49,11 +49,13 @@
           </li> -->
         </ul>
         <ul>
-           <li class="hidden lg:flex ">
-            <search-input />
+           <li :class="isOpen ? 'hidden':'flex justify-end sm:flex' ">
+             <div class="">
+               <search-input />
+             </div>
           </li>
         </ul>
-        <ul class="hidden lg:flex items-center space-x-4 ">
+        <ul class="hidden xl:flex items-center space-x-4 ">
           <li>
             <theme-switcher :theme="theme" @themeChanged="updateTheme" />
           </li>
