@@ -15,6 +15,6 @@ tags: ['laravel']
 - [x] [Tutorial 1](https://www.youtube.com/watch?v=zIgYJlu03bI)
 - [x] [Tutorial 2](https://www.youtube.com/watch?v=nx6eGEKnkwU)
 - [x] [Tutorial 3](https://www.youtube.com/watch?v=rkLeeWftBww&t=398s)
-- [ ] [Tutorial 4](https://www.youtube.com/watch?v=PQh58dmIUgg&t=62s)
-- [ ] [Tutorial 5](https://www.youtube.com/watch?v=TF7USUWZlQ8)
+- [x] [Tutorial 4](https://www.youtube.com/watch?v=PQh58dmIUgg&t=62s)
+- [x] [Tutorial 5](https://www.youtube.com/watch?v=TF7USUWZlQ8)
 
