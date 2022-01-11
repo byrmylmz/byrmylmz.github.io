@@ -14,9 +14,9 @@ tags: ['deploy']
 - [x] [0:00](https://www.youtube.com/watch?v=2zduPKmszmI&t=0s)  - Intro
 - [x] [0:59](https://www.youtube.com/watch?v=2zduPKmszmI&t=59s)  - Quick introduction to GitHub Actions
 - [x] [1:22](https://www.youtube.com/watch?v=2zduPKmszmI&t=82s)  - Setup GitHub Repository
-- [ ] [1:55](https://www.youtube.com/watch?v=2zduPKmszmI&t=115s)  - Install Laravel
-- [ ] [2:55](https://www.youtube.com/watch?v=2zduPKmszmI&t=175s)  - Creating our first workflow
-- [ ] [3:50](https://www.youtube.com/watch?v=2zduPKmszmI&t=230s)  - Create deployment artifacts job
+- [x] [1:55](https://www.youtube.com/watch?v=2zduPKmszmI&t=115s)  - Install Laravel
+- [x] [2:55](https://www.youtube.com/watch?v=2zduPKmszmI&t=175s)  - Creating our first workflow
+- [x] [3:50](https://www.youtube.com/watch?v=2zduPKmszmI&t=230s)  - Create deployment artifacts job
 - [ ] [16:11](https://www.youtube.com/watch?v=2zduPKmszmI&t=971s)  - Setup DigitalOcean server
 - [ ] [17:30](https://www.youtube.com/watch?v=2zduPKmszmI&t=1050s)  - Atomic deployment directory structure
 - [ ] [21:59](https://www.youtube.com/watch?v=2zduPKmszmI&t=1319s)  - Prepare our release on servers
