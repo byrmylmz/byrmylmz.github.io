@@ -1,5 +1,5 @@
 ---
-title: 😃Domain & Digital Ocean 
+title:🏁Domain & Digital Ocean 
 path: /domain-digital-ocean
 date: 2021-12-27
 summary: 
