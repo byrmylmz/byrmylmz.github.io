@@ -5,24 +5,6 @@ date: 2022-01-10
 summary: 
 tags: ['deploy']
 ---
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
-
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 - [ ] [Laravel deployment with GitHub Actions](https://www.youtube.com/watch?v=2zduPKmszmI)
 
@@ -33,7 +15,7 @@ tags: ['deploy']
 - [x] [1:55](https://www.youtube.com/watch?v=2zduPKmszmI&t=115s)  - Install Laravel
 - [x] [2:55](https://www.youtube.com/watch?v=2zduPKmszmI&t=175s)  - Creating our first workflow
 - [x] [3:50](https://www.youtube.com/watch?v=2zduPKmszmI&t=230s)  - Create deployment artifacts job
-- [ ] [16:11](https://www.youtube.com/watch?v=2zduPKmszmI&t=971s)  - Setup DigitalOcean server
+- [x] [16:11](https://www.youtube.com/watch?v=2zduPKmszmI&t=971s)  - Setup DigitalOcean server
 - [ ] [17:30](https://www.youtube.com/watch?v=2zduPKmszmI&t=1050s)  - Atomic deployment directory structure
 - [ ] [21:59](https://www.youtube.com/watch?v=2zduPKmszmI&t=1319s)  - Prepare our release on servers
 - [ ] [33:56](https://www.youtube.com/watch?v=2zduPKmszmI&t=2036s)  - Configure before hooks
