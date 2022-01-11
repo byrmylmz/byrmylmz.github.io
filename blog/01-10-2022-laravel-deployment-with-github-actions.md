@@ -5,7 +5,23 @@ date: 2022-01-10
 summary: 
 tags: ['deploy']
 ---
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 - [ ] [Laravel deployment with GitHub Actions](https://www.youtube.com/watch?v=2zduPKmszmI)
@@ -26,3 +42,4 @@ tags: ['deploy']
 - [ ] [46:12](https://www.youtube.com/watch?v=2zduPKmszmI&t=2772s)  - Server cleanup
 - [ ] [48:35](https://www.youtube.com/watch?v=2zduPKmszmI&t=2915s)  - Summary and multi-server deployment demo
 - [ ] [49:28](https://www.youtube.com/watch?v=2zduPKmszmI&t=2968s)  - Outro
+
