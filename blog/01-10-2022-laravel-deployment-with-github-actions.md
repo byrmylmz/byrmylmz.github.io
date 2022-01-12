@@ -18,7 +18,7 @@ tags: ['deploy']
 - [x] [16:11](https://www.youtube.com/watch?v=2zduPKmszmI&t=971s)  - Setup DigitalOcean server
 - [x] [17:30](https://www.youtube.com/watch?v=2zduPKmszmI&t=1050s)  - Atomic deployment directory structure
 - [x] [21:59](https://www.youtube.com/watch?v=2zduPKmszmI&t=1319s)  - Prepare our release on servers
-- [ ] [33:56](https://www.youtube.com/watch?v=2zduPKmszmI&t=2036s)  - Configure before hooks
+- [x] [33:56](https://www.youtube.com/watch?v=2zduPKmszmI&t=2036s)  - Configure before hooks
 - [ ] [38:02](https://www.youtube.com/watch?v=2zduPKmszmI&t=2282s)  - Activate release on servers
 - [ ] [45:25](https://www.youtube.com/watch?v=2zduPKmszmI&t=2725s)  - Configure after hooks
 - [ ] [46:12](https://www.youtube.com/watch?v=2zduPKmszmI&t=2772s)  - Server cleanup
