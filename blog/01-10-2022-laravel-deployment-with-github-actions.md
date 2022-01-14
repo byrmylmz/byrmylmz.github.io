@@ -26,3 +26,15 @@ tags: ['deploy']
 - [x] [48:35](https://www.youtube.com/watch?v=2zduPKmszmI&t=2915s)  - Summary and multi-server deployment demo
 - [x] [49:28](https://www.youtube.com/watch?v=2zduPKmszmI&t=2968s)  - Outro
 
+<details>
+  <summary>nginx file</summary>
+  <p>
+
+#### We can hide anything, even code!
+
+    ```php
+      puts "Hello World"
+    ```
+
+</p>
+</details>
