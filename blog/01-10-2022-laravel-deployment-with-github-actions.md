@@ -7,6 +7,7 @@ tags: ['deploy']
 ---
 
 - [ ] [Laravel deployment with GitHub Actions](https://www.youtube.com/watch?v=2zduPKmszmI)
+- [ ] [Deployment article](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)
 
 ### Content of this video
 - [x] [0:00](https://www.youtube.com/watch?v=2zduPKmszmI&t=0s)  - Intro
