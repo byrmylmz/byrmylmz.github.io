@@ -19,9 +19,9 @@ tags: ['deploy']
 - [x] [17:30](https://www.youtube.com/watch?v=2zduPKmszmI&t=1050s)  - Atomic deployment directory structure
 - [x] [21:59](https://www.youtube.com/watch?v=2zduPKmszmI&t=1319s)  - Prepare our release on servers
 - [x] [33:56](https://www.youtube.com/watch?v=2zduPKmszmI&t=2036s)  - Configure before hooks
-- [ ] [38:02](https://www.youtube.com/watch?v=2zduPKmszmI&t=2282s)  - Activate release on servers
-- [ ] [45:25](https://www.youtube.com/watch?v=2zduPKmszmI&t=2725s)  - Configure after hooks
-- [ ] [46:12](https://www.youtube.com/watch?v=2zduPKmszmI&t=2772s)  - Server cleanup
-- [ ] [48:35](https://www.youtube.com/watch?v=2zduPKmszmI&t=2915s)  - Summary and multi-server deployment demo
-- [ ] [49:28](https://www.youtube.com/watch?v=2zduPKmszmI&t=2968s)  - Outro
+- [x] [38:02](https://www.youtube.com/watch?v=2zduPKmszmI&t=2282s)  - Activate release on servers
+- [x] [45:25](https://www.youtube.com/watch?v=2zduPKmszmI&t=2725s)  - Configure after hooks
+- [x] [46:12](https://www.youtube.com/watch?v=2zduPKmszmI&t=2772s)  - Server cleanup
+- [x] [48:35](https://www.youtube.com/watch?v=2zduPKmszmI&t=2915s)  - Summary and multi-server deployment demo
+- [x] [49:28](https://www.youtube.com/watch?v=2zduPKmszmI&t=2968s)  - Outro
 
