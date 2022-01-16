@@ -7,4 +7,4 @@ tags: ['factory']
 ---
 
 - [ ] [Seed multiple row](https://stackoverflow.com/a/28594136)
-- [ ] []()
+
