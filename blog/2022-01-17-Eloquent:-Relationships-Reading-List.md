@@ -1,19 +1,19 @@
 ---
 title: Eloquent:Relationships Reading List.
-path: /Eloquent:-Relationships-Reading-List
+path: /Eloquent-Relationships-Reading-List
 date: 2022-01-17
 summary: 
 tags: ['reading']
 ---
 
-- [ ] [Introduction](https://laravel.com/docs/8.x/eloquent-relationships#introduction) 
-- [ ] [Defining Relationships](https://laravel.com/docs/8.x/eloquent-relationships#defining-relationships) 
-	- [ ] [One To One](https://laravel.com/docs/8.x/eloquent-relationships#one-to-one) 
-	- [ ] [One To Many](https://laravel.com/docs/8.x/eloquent-relationships#one-to-many) 
-	- [ ] [One To Many (Inverse) / Belongs To](https://laravel.com/docs/8.x/eloquent-relationships#one-to-many-inverse) 
-	- [ ] [Has One Of Many](https://laravel.com/docs/8.x/eloquent-relationships#has-one-of-many) 
-	- [ ] [Has One Through](https://laravel.com/docs/8.x/eloquent-relationships#has-one-through) 
-	- [ ] [Has Many Through](https://laravel.com/docs/8.x/eloquent-relationships#has-many-through) 
+- [x] [Introduction](https://laravel.com/docs/8.x/eloquent-relationships#introduction) 
+- [x] [Defining Relationships](https://laravel.com/docs/8.x/eloquent-relationships#defining-relationships) 
+	- [x] [One To One](https://laravel.com/docs/8.x/eloquent-relationships#one-to-one) 
+	- [x] [One To Many](https://laravel.com/docs/8.x/eloquent-relationships#one-to-many) 
+	- [x] [One To Many (Inverse) / Belongs To](https://laravel.com/docs/8.x/eloquent-relationships#one-to-many-inverse) 
+	- [x] [Has One Of Many](https://laravel.com/docs/8.x/eloquent-relationships#has-one-of-many) 
+	- [x] [Has One Through](https://laravel.com/docs/8.x/eloquent-relationships#has-one-through) 
+	- [x] [Has Many Through](https://laravel.com/docs/8.x/eloquent-relationships#has-many-through) 
 - [ ] [Many To Many Relationships](https://laravel.com/docs/8.x/eloquent-relationships#many-to-many) 
 	- [ ] [Retrieving Intermediate Table Columns](https://laravel.com/docs/8.x/eloquent-relationships#retrieving-intermediate-table-columns) 
 	- [ ] [Filtering Queries Via Intermediate Table Columns](https://laravel.com/docs/8.x/eloquent-relationships#filtering-queries-via-intermediate-table-columns) 
