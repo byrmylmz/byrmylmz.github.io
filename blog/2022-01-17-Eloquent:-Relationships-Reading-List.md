@@ -6,6 +6,7 @@ summary:
 tags: ['reading']
 ---
 
+# Laravel Eloquent:Relationships📗
 - [x] [Introduction](https://laravel.com/docs/8.x/eloquent-relationships#introduction) 
 - [x] [Defining Relationships](https://laravel.com/docs/8.x/eloquent-relationships#defining-relationships) 
 	- [x] [One To One](https://laravel.com/docs/8.x/eloquent-relationships#one-to-one) 
@@ -44,3 +45,4 @@ tags: ['reading']
 	- [ ] [Belongs To Relationships](https://laravel.com/docs/8.x/eloquent-relationships#updating-belongs-to-relationships) 
 	- [ ] [Many To Many Relationships](https://laravel.com/docs/8.x/eloquent-relationships#updating-many-to-many-relationships) 
 - [ ] [Touching Parent Timestamps](https://laravel.com/docs/8.x/eloquent-relationships#touching-parent-timestamps) 
+
