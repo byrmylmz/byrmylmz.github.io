@@ -14,7 +14,7 @@ tags: ['laravel']
 [Database structure of role permission for spatie](https://drawsql.app/templates/laravel-permission)<br>
 [Database seeder sample](https://spatie.be/index.php/docs/laravel-permission/v5/advanced-usage/seeding)<br>
 [Best sample project beside laravelexample.com](https://github.com/drbyte/spatie-permissions-demo/blob/master/app/Http/Controllers/HomeController.php)<br>
-[Best way to use role permission in controller -> __construct middleware](https://laravel.com/docs/master/controllers)
+[Best way to use role permission in controller -> __construct middleware](https://laravel.com/docs/master/controllers#controller-middleware)
 
 - [x] [Tutorial 1](https://www.youtube.com/watch?v=zIgYJlu03bI)
 - [x] [Tutorial 2](https://www.youtube.com/watch?v=nx6eGEKnkwU)
