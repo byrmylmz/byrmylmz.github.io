@@ -11,7 +11,8 @@ tags: ['laravel']
 [Trial Time](https://laraveldaily.com/laravel-saas-free-trial-implementation/)
 
 ### Notes
-[Database structure of role permission for spatie](https://drawsql.app/templates/laravel-permission)
+[Database structure of role permission for spatie](https://drawsql.app/templates/laravel-permission)\
+[Database seeder sample](https://spatie.be/index.php/docs/laravel-permission/v5/advanced-usage/seeding)\
 [Best sample project beside laravelexample.com](https://github.com/drbyte/spatie-permissions-demo/blob/master/app/Http/Controllers/HomeController.php)\
 [Best way to use role permission in controller -> __construct middleware](https://laravel.com/docs/master/controllers)
 
