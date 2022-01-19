@@ -6,14 +6,14 @@ summary:
 tags: ['laravel']
 ---
 
-[Spatie permission package documents](https://spatie.be/index.php/docs/laravel-permission/v5/introduction)\
-[Povil package reviews](https://www.youtube.com/watch?v=NgToi0uiMNQ&t=477s)\
+[Spatie permission package documents](https://spatie.be/index.php/docs/laravel-permission/v5/introduction)<br>
+[Povil package reviews](https://www.youtube.com/watch?v=NgToi0uiMNQ&t=477s)<br>
 [Trial Time](https://laraveldaily.com/laravel-saas-free-trial-implementation/)
 
 ### Notes
-[Database structure of role permission for spatie](https://drawsql.app/templates/laravel-permission)\
-[Database seeder sample](https://spatie.be/index.php/docs/laravel-permission/v5/advanced-usage/seeding)\
-[Best sample project beside laravelexample.com](https://github.com/drbyte/spatie-permissions-demo/blob/master/app/Http/Controllers/HomeController.php)\
+[Database structure of role permission for spatie](https://drawsql.app/templates/laravel-permission)<br>
+[Database seeder sample](https://spatie.be/index.php/docs/laravel-permission/v5/advanced-usage/seeding)<br>
+[Best sample project beside laravelexample.com](https://github.com/drbyte/spatie-permissions-demo/blob/master/app/Http/Controllers/HomeController.php)<br>
 [Best way to use role permission in controller -> __construct middleware](https://laravel.com/docs/master/controllers)
 
 - [x] [Tutorial 1](https://www.youtube.com/watch?v=zIgYJlu03bI)
