@@ -6,8 +6,9 @@ summary:
 tags: ['deploy']
 ---
 
-- [ ] [Laravel deployment with GitHub Actions](https://www.youtube.com/watch?v=2zduPKmszmI)
-- [ ] [Deployment article](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)
+- [ ] [Laravel deployment with GitHub Actions](https://www.youtube.com/watch?v=2zduPKmszmI)<br>
+- [ ] [Deployment article](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)<br>
+- [ ] [404 nginx error](https://www.digitalocean.com/community/questions/all-laravel-routes-not-found-on-nginx)
 
 ### Content of this video
 - [x] [0:00](https://www.youtube.com/watch?v=2zduPKmszmI&t=0s)  - Intro
