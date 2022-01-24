@@ -13,7 +13,7 @@ tags: ['laravel','deploy']
 
 ### Connection
 test
-```php
+```mysql
 ssh root@server_ip_adress
 ```
 
