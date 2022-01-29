@@ -9,6 +9,7 @@ tags: ['deploy']
 - [ ] [Laravel deployment with GitHub Actions](https://www.youtube.com/watch?v=2zduPKmszmI)<br>
 - [ ] [Deployment article](https://philo.dev/how-to-use-github-actions-build-matrix-to-deploy-artifacts-to-multiple-servers/)<br>
 - [ ] [404 nginx error](https://www.digitalocean.com/community/questions/all-laravel-routes-not-found-on-nginx)
+- [ ] [Running command in another directory.](https://stackoverflow.com/questions/58139175/running-actions-in-another-directory)
 
 ### Content of this video
 - [x] [0:00](https://www.youtube.com/watch?v=2zduPKmszmI&t=0s)  - Intro
@@ -27,15 +28,4 @@ tags: ['deploy']
 - [x] [48:35](https://www.youtube.com/watch?v=2zduPKmszmI&t=2915s)  - Summary and multi-server deployment demo
 - [x] [49:28](https://www.youtube.com/watch?v=2zduPKmszmI&t=2968s)  - Outro
 
-<details>
-  <summary>nginx file</summary>
-  <p>
 
-#### We can hide anything, even code!
-
-    ```php
-      puts "Hello World"
-    ```
-
-</p>
-</details>
