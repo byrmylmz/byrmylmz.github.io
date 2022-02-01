@@ -4,7 +4,7 @@ path: /discard-changes
 date: 2022-01-27
 tags: ['error']
 ---
-
+# On local git
 ```git
 git reset --hard HEAD
 git clean -df
@@ -17,3 +17,11 @@ git pull
 `git pull` (or if you are using git shell with the GitHub client) git sync will get the new changes from GitHub.
 
 > [Source link](https://stackoverflow.com/questions/38776517/how-to-discard-local-changes-and-pull-latest-from-github-repository)
+# On Github
+```git
+  git log // check the commit hash
+  git revert <commit hash>
+  git push origin master // then push to all revert to github.
+```
+> [Source link](https://code.likeagirl.io/how-to-undo-the-last-commit-393e7db2840b)
+
