@@ -17,6 +17,7 @@ git pull
 `git pull` (or if you are using git shell with the GitHub client) git sync will get the new changes from GitHub.
 
 > [Source link](https://stackoverflow.com/questions/38776517/how-to-discard-local-changes-and-pull-latest-from-github-repository)
+
 # On Github
 ```git
   git log // check the commit hash
