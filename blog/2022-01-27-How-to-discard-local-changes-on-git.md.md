@@ -5,7 +5,7 @@ date: 2022-01-27
 tags: ['error']
 ---
 # On local git
-```git
+```
 git reset --hard HEAD
 git clean -df
 git pull
@@ -19,7 +19,7 @@ git pull
 > [Source link](https://stackoverflow.com/questions/38776517/how-to-discard-local-changes-and-pull-latest-from-github-repository)
 
 # On Github
-```git
+```
   git log // check the commit hash
   git revert <commit hash>
   git push origin master // then push to all revert to github.
