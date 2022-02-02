@@ -13,5 +13,5 @@ tags: ['package']
 
 
 
-First install laravel socialite package
-Then [google oauth 2 specialized package](https://github.com/SocialiteProviders/Google-Plus)
+1. First install laravel socialite package
+2. Then [google oauth 2 specialized package](https://github.com/SocialiteProviders/Google-Plus)
