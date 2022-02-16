@@ -24,9 +24,10 @@ SELECT USER,HOST FROM mysql.user;
 
 # Ufw firewall commands
 
-```mysql
+```
 sudo ufw status numbered
 sudo ufw delete 3 
+sudo ufw allow from remote_IP_address to any port 3306 // allow to access
 ```
 
 
