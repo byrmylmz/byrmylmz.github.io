@@ -20,6 +20,8 @@ SELECT USER FROM mysql.user;
 DROP USER 'username'@'localhost';
 
 SELECT USER,HOST FROM mysql.user;
+
+RENAME USER 'sammy'@'localhost' TO 'sammy'@'remote_server_ip';
 ```
 
 # Ufw firewall commands
