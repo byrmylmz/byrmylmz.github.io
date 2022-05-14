@@ -12,7 +12,7 @@ jobs:
     steps:
 
     - name: work around permission issue
-      run: git config --global --add safe.directory /__w/byrmylmz.github.io/byrmylmz.github.io
+      run: git config --global --add safe.directory /home/runner/work/byrmylmz.github.io/byrmylmz.github.io
 
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
