@@ -78,9 +78,11 @@ module.exports = {
       }
     },
   ],
+  // templates
   templates: {
     Tag: '/tag/:id'
   },
+  // transformers
   transformers: {
     remark: {
       plugins: [
@@ -91,4 +93,8 @@ module.exports = {
       anchorClassName: 'icon icon-link',
     }
   },
+  icon: {
+    favicon: './src/favicon.png',
+   // touchicon: './src/my-touchicon.png'
+  }
 }
