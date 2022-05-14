@@ -1,28 +1,34 @@
 name: Build & Deploy
 
 on:
-  push:	
-    branches:	
-      - master
+  push:
+    branches: [ master ]
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+    - name: work around permission issue
+      run: git config --global --add safe.directory /github/workspace
 
-      - name: Installing packages
-        run: npm install
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
 
-      - name: Build Gridsome site
-        run: yarn build
-
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BASE_BRANCH: master
-          BRANCH: gh-pages
-          FOLDER: dist
+      with:
+        node-version: 13.x
+    - run: npm ci
+    - run: npm run build
+    
+      env:
+        CI: true
+        
+    - name: Deploy to GitHub Pages
+      if: github.ref == 'refs/heads/master'
+      uses: qoomon/deploy-to-github-pages-action@v1
+      with:
+        GITHUB_PAGES_SOURCE_DIR: dist # default value:  dist
+        GITHUB_PAGES_BRANCH: gh-pages # default value:  gh-pages
+        GITHUB_PAGES_REPLACE: false   # default value:  false
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
