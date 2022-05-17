@@ -9,7 +9,6 @@ tags: ['lifestyle']
 
 
 
-![background](./images/blog_bg_1.jpg)
 
 
 
