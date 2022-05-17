@@ -1,14 +1,15 @@
 ---
 title: What I Ate for Breakfast
 path: /what-i-ate-for-breakfast
+youtube: PK3jxvtABpQ
 date: 2019-03-21
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags: ['lifestyle']
 ---
 
-![background](./images/blog_bg_1.jpg)
 
-`youtube:https://www.youtube.com/watch?v=PK3jxvtABpQ`
+
+![background](./images/blog_bg_1.jpg)
 
 
 

@@ -38,7 +38,7 @@ module.exports = {
         },
         remark: {
           plugins: [
-            ['gridsome-plugin-remark-youtube']
+            ['gridsome-plugin-remark-youtube',{width: '1100px', align: 'center'}]
           ]
         }
       }

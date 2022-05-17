@@ -1,6 +1,7 @@
 <template>
   <Layout>
-    <div class="container-inner mx-auto my-16">
+    <div class="container mx-auto my-16">
+
       <h1 class="text-4xl font-bold leading-tight">{{ $page.post.title }}</h1>
       <div class="text-xl text-gray-600 mb-4">{{ $page.post.date }}</div>
       <div class="flex mb-8 text-sm">
@@ -12,7 +13,16 @@
           {{ tag.title }}
         </g-link>
       </div>
-      <div class="markdown-body mb-8" v-html="$page.post.content" />
+
+         <div v-if="$page.post.youtube" class="markdown-body mb-8" > 
+              <div style="width: 100%; margin: 0 auto;">
+              <div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+              <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+                :src="'http://www.youtube.com/embed/'+ $page.post.youtube"></iframe>
+              </div>
+              </div>
+         </div>
+         <div class="container-inner mx-auto markdown-body mb-8" v-html="$page.post.content" />
       <div class="mb-8">
         <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
       </div>
@@ -38,6 +48,7 @@
 query Post ($path: String!) {
   post: post (path: $path) {
     title
+    youtube
     date (format: "MMMM D, Y")
     content
     fileInfo{
