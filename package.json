@@ -18,7 +18,6 @@
     "gh-pages": "^3.2.3",
     "gridsome": "^0.7.23",
     "gridsome-plugin-remark-shiki": "^0.6.0",
-    "gridsome-plugin-remark-youtube": "^1.0.1",
     "gridsome-plugin-rss": "^1.2.0",
     "vue-fuse": "^2.2.1",
     "vue-scrollto": "^2.20.0"
