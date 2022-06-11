@@ -94,7 +94,7 @@ module.exports = {
     }
   },
   icon: {
-    favicon: './src/favicon.ico',
+    favicon: './src/favicon.png',
    // touchicon: './src/my-touchicon.png'
   }
 }
