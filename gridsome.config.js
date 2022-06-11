@@ -94,7 +94,14 @@ module.exports = {
     }
   },
   icon: {
-    favicon: './src/favicon.png',
-   touchicon: './src/my-touchicon.png'
+    favicon: {
+      src: './src/favicon-32x32',
+      sizes: [16, 32, 96]
+    },
+    touchicon: {
+      src: './src/apple-touch-icon',
+      sizes: [76, 152, 120, 167],
+      precomposed: true
+    }
   }
 }
