@@ -95,13 +95,15 @@ module.exports = {
   },
   icon: {
     favicon: {
-      src: './src/favicon-32x32',
-      sizes: [16, 32, 96]
+      src: './src/favicon-16x16.png',
+      sizes: [16]
+    },
+    favicon: {
+      src: './src/favicon-32x32.png',
+      sizes: [32]
     },
     touchicon: {
-      src: './src/apple-touch-icon',
-      sizes: [76, 152, 120, 167],
-      precomposed: true
+      src: './src/apple-touch-icon.png',
     }
   }
 }
