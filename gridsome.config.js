@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Bayram Yılmaz',
   siteDescription: 'Bayram Yılmaz - Web Developer',
-  siteUrl: 'https://byrmylmz.github.io',
+  siteUrl: 'https://bayram.io',
   
   plugins: [
     { 
@@ -62,7 +62,7 @@ module.exports = {
           title: node.title,
           description: node.summary,
           url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Andre Madarang',
+          author: 'Bayram Yilmaz',
           date: node.date
         }),
         output: {
